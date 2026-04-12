@@ -1,5 +1,4 @@
-## Hey👋 
-My name is N. Sai Gaurav, a focused developer building real skills through consistent practice and real-world projects💻🧠🔥
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hyy+%F0%9F%91%8B..+I'm+N.Sai+Gaurav+%F0%9F%92%BB;A+passionate+Full+Stack+Developer+%F0%9F%9A%80;Building+real-world+projects+%F0%9F%92%A1;Improving+every+day...%F0%9F%94%A5)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 Actively building hands-on JavaScript and MERN stack projects to strengthen real-world development skillsently working on<br>⚙️ Developing backend applications using Node.js & Express, focusing on clean architecture and RESTful APIs<br>🛠️ Working with databases including MongoDB, MySQL, and PostgreSQL, learning data modeling and efficient querying<br>🔐 Implementing authentication systems (JWT) and secure backend practices<br>🧠 Practicing Data Structures & Problem Solving to improve logic and coding efficiency<br>🚀 Gradually exploring scalable and modern web technologies like Edge Computing and WebAssembly<br>
